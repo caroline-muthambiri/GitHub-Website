@@ -1,5 +1,6 @@
 ---
+layout: page
 title: Resume
-layout: default
+permalink: /resume/
 ---
 Resume Page - More Details coming soon
