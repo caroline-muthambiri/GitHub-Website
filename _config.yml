@@ -1,5 +1,6 @@
-theme: minima
 title: Caroline Muthambiri
+
+theme: minima
 
 header_pages:
   - resume.md
