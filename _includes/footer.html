@@ -8,13 +8,6 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
@@ -22,11 +15,16 @@
       </div>
 
       <div class="footer-col footer-col-2">
-      <!--{%- include social.html -%} -->
+        <ul style="list-style-type:none">
+          <li>I am Social </li>
+          <li><a href="https://www.twitter.com/carolinekiddy" target="_blank">Twitter</a></li>
+          <!-- Create a new non personal IG account -->
+           <li><a href="https://www.instagram.com/" target="_blank">Instagram</a></li>
+        </ul>      
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>Build for Impact</p>
       </div>
     </div>
 
