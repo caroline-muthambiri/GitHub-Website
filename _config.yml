@@ -2,10 +2,5 @@ title: Caroline Muthambiri
 
 theme: minima
 
-header_pages:
-  - resume.md
-  - projects.md
-  - contacts.md
-
 exclude:
 - README.md
