@@ -1,4 +1,6 @@
 theme: minima
+title: Caroline Muthambiri
+
 header_pages:
   - resume.md
   - projects.md
