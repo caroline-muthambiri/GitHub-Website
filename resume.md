@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: journal
+permalink: /journal/
 ---
-Resume Page - More Details coming soon
+
