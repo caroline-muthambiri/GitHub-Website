@@ -1,6 +1,6 @@
 ---
 layout: page
-title: journal
+title: Journal
 permalink: /journal/
 ---
 
