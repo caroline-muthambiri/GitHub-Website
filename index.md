@@ -2,14 +2,14 @@
 title: About
 layout: default
 ---
-## Resume
+# Resume
 
-### Academic Qualifications
+## Academic Qualifications
 * Msc. Computer Science Distributed Systems & Networks : University of Hertfordshire 
 * Bsc. Information Technology: KCA University
 
 
-### Work 
+## Work 
 **Current:** 
 * Corporate Operations Engineer: Google(Switzerland)
 
@@ -20,12 +20,12 @@ layout: default
 * Network Engineer Intern: LANTech (Kenya)
 
 
-### Skills
+## Skills
 * Programming: Python, GoLang, 
 * Operating Systems: Linux & Unix 
 * Analytical & Problem Solving 
 
-### Awards
+## Awards
 * Anita Borg Memorial Scholar ( EMEA 2011)
 
 
