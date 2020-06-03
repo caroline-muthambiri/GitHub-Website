@@ -5,7 +5,7 @@ layout: default
 # Bio
 
 <p align="center">
-  <img src="https://ofmyfavourite.com/wp-content/uploads/2020/06/caroline-m-e1591195097380.png" alt="Caroline-Picture">
+  <img src="https://ofmyfavourite.com/wp-content/uploads/2020/06/caroline-m-2-e1591196054684.png" alt="Caroline-Picture">
 </p>
 
 
