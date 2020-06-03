@@ -2,30 +2,10 @@
 title: About
 layout: default
 ---
-# Resume
+# Bio
 
-## Academic Qualifications
-* Msc. Computer Science Distributed Systems & Networks : University of Hertfordshire 
-* Bsc. Information Technology: KCA University
+Caroline Muthambiri is a Corporate Operations Engineer at Google (Zurich ), she previously held the positions of  IT Resident at Google’s  Dublin office and Systems Administrator at IPS Kenya Ltd. Caroline launched her career in Tech when she Interned at LANTech Africa Ltd, an IT Infrastructure Solutions company in Nairobi  where she later held the position of a Network Engineer.
 
+Caroline holds an MSc. Computer Science from the University of Hertfordshire with a specialization in Distributed systems and Networks and Bsc. In Information Technology from KCA University.
 
-## Work 
-**Current:** 
-* Corporate Operations Engineer: Google(Switzerland)
-
-**Previous:** 
-* Information Technology Resident: Google (Ireland)
-* Systems Administrator: IPS (Kenya)
-* Network Engineer (LANTech (Kenya))
-* Network Engineer Intern: LANTech (Kenya)
-
-
-## Skills
-* Programming: Python, GoLang, 
-* Operating Systems: Linux & Unix 
-* Analytical & Problem Solving 
-
-## Awards
-* Anita Borg Memorial Scholar ( EMEA 2011)
-
-
+Caroline prides herself as an analytical thinker and a problem solver who enjoys crafting solutions to everyday challenges. She is an avid reader and seeks diverse knowledge and cultural experiences through travel.
